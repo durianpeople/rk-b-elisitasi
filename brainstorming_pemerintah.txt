@@ -1,0 +1,41 @@
+Notulensi brainstorming pemerintah:
+- self assessment: kalo ringan ke rumah sakit biasa. kalo tinggi nanti rekomendasi ke rumah sakit bagus.
+- self assesment berupa keluhan dimasukkan ke query, ntar direspon dokter beneran.
+
+- ntar kontak API ambulans
+
+- libatkan puskesmas
+
+- integrasi dengan ambulans
+
+- butuh infrastruktur tinggi
+- tutorial, berarti harus gampang
+- inget banyak yang kurang akses internet
+
+- alur covid diperjelas
+- self assesment sebelum ke rumah sakit (request pemerintah untuk mengurangi beban tenaga medis)
+- publikasi
+- deteksi dini (by sistem)
+	- biodata
+	- keluhan apa
+	- gejalanya
+	- sesuai dengan pertanyaa tim dinas kesehatan
+
+- ini urgensi jadi fitur yang dikerjakan sebisanya
+
+- sistem pemeriksaan self assesment
+	- diperiksa oleh tim dinas kesehatan
+	- odp dateng sendiri ke rumah sakit/puskesmas rekomendasi sistem
+	- integrasi dengan sistem call center ambulans
+
+- perintah kepala dinas
+	- rumah sakit harus siap sedia
+	- rumah sakit harus mau menerima pasien
+	- memberikan rujukan by sistem ke rumah sakit rujukan yang masih tersedia
+
+Tambahan : 
+- Biodata cukup menggunakan NIK
+- Berikan beberapa daftar rumah sakit terdekat
+- Rapid Tes dapat diarahkan ke puskesmas
+- Swab Tes arahkan ke rumah sakit
+- Setelah tes SWAB, pasien positif corona akan dijemput ambulance

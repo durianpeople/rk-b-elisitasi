@@ -1,0 +1,51 @@
+bagas: dokter
+rafi: rumah sakit
+ersad: dokter
+rangga: dokter
+rijal: rumah sakit
+
+- mensosialisasikan update cara pencegahan penularan COVID
+- menyediakan fitur antri online
+- dibuat website mobile
+- menampilkan SOP penanganan covid sebelum kunjungan ke rumah sakit
+- menyediakan kontak call center ambulans
+
+- menampilkan ketersediaan rumah sakit terdekat
+- menampilkan kualitas rumah sakit terdekat (30%)
+- menampilkan mana saja rumah sakit rujukan
+- menampilkan harga pelayanan
+- menampilkan rumah sakit yang tersedia dan sanggup menangani pasien non-covid
+
+- harga yang ditampilkan yang mana
+	- agar tidak menipu
+	- lebih baik tidak exact tapi categorical
+- kapasitasnya
+	- boleh di buka ke publik
+	- harga juga bisa namun categorical juga
+- data covid bisa di ungkap ke publik
+- self assesment (bagaimana praktiknya)
+	- seleksi virus atau bukan
+	- covid atau bukan
+	- pertanyaan berasal dari para dokter sebagai expertise
+- ditambahi edukasi agar tidak perlu selalu ke rumah sakit dan membebani kerja dokter
+- dokter kewalahan dan jangan di bebankan
+	- edukasi tentang covid bagi masyarakat
+	- apd kekurangan
+- fitur donor apd bagi relawan untuk rumah sakit - rumah sakit
+	- connect dengan platform relawan lain
+	- status rumah sakit butuh bantuan
+- Menunjukan kategori ketersediaan apd bagi para rumah sakit
+- tampilkan rumah sakit yang memiliki apd memadai
+- informasi rutin tentang corona seperti edukasi
+- kemudahan memanggil ambulans
+	-nomor faskes
+	-ketersediaan ambulance
+- integrasi antri online memungkinkan dengan sistem rumah sakit
+
+tambahan:
+- harga yang ditampilkan nggak persis. kek rating
+- ternyata ga butuh self assesment buat prioritas rapid test. edukasi aja biar perlu / nggak perlu ke rumah sakit. reserve dokter. boleh self assesment TANPA dokter
+- fitur rumah sakit menyajikan bantuan stok APD (nggak detail, bilang aja kurang, kalo detail tampilin hari) biar bisa ada relawan
+- arahkan ke yang APD-nya cukup
+- kerjasama sama kitabisa.com buat penyaluran donasi
+- faskes mana yang ada ambulans-nya tampilin

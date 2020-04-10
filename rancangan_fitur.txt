@@ -1,0 +1,11 @@
+- mensosialisasikan update cara pencegahan penularan COVID
+- menyediakan fitur antri online
+- dibuat website mobile
+- menampilkan SOP penanganan covid sebelum kunjungan ke rumah sakit
+- menyediakan kontak call center ambulans
+
+- menampilkan ketersediaan rumah sakit terdekat
+- menampilkan kualitas rumah sakit terdekat (30%)
+- menampilkan mana saja rumah sakit rujukan
+- menampilkan harga pelayanan
+- menampilkan rumah sakit yang tersedia dan sanggup menangani pasien non-covid
